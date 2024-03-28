@@ -1,6 +1,6 @@
 # Hi there, I'm Ahsan Khan! 👋
 
-I'm a passionate DevOps and Cloud engineer with a keen interest in incorporating AI into DevOps practices.
+I'm a passionate Cloud DevOps engineer with a keen interest in incorporating AI into DevOps practices.
 
 - 👀 I’m interested in DevOps, Cloud, AI, and Cybersecurity.
 - 🌱 I’m currently learning how to infuse AI into DevOps practices and exploring cybersecurity techniques to enhance system security.
